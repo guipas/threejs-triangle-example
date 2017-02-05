@@ -1,0 +1,20 @@
+{
+  "name": "2-triangles",
+  "homepage": "https://github.com/guipas/threejs-triangle-example",
+  "authors": [
+    "Guillaume Pasquet <g.pasquet@weview.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*"
+  }
+}
